@@ -20,6 +20,7 @@ __pycache__
 *aws/auth/patch.yml
 
 # Coverage reports
+
 htmlcov/
 .coverage
 .coverage.*
